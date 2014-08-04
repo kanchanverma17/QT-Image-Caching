@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CachedImage.qml</file>
+    </qresource>
+</RCC>
